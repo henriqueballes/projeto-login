@@ -41,7 +41,7 @@ section#login {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.452);
 
     transition: width .3s, height .3s;
-    -o-transition-timing-function: ease;
+    transition-timing-function: ease;
 
 }
 
